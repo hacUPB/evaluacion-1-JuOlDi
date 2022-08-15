@@ -4,7 +4,18 @@
 
 ![vanellope-de-ralph-el-demoledor_3840x2400_xtrafondos com](https://user-images.githubusercontent.com/111312908/184712228-016d8be4-bdbe-4c7b-afe6-d8b0238bd315.jpg)
 
-
+<p>
+1.git clone 
+</p>
+<p>
+2.git add 
+</p>
+<p>
+3.git commit -m "" //para agregar comentario
+</p>
+<p>
+4.git push 
+</p>
 
 
 
