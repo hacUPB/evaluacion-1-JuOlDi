@@ -4,6 +4,8 @@
 
 ![vanellope-de-ralph-el-demoledor_3840x2400_xtrafondos com](https://user-images.githubusercontent.com/111312908/184712228-016d8be4-bdbe-4c7b-afe6-d8b0238bd315.jpg)
 
+[NotionCriterios]https://www.notion.so/Git-Github-y-Github-Classroom-66bd89e15a314e2eb75b913831b4806a
+
 <p>
 1.git clone 
 </p>
