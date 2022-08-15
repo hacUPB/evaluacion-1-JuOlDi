@@ -1,6 +1,6 @@
 <h1>EVALUACION 1</h1>
 
-
+<p>Se entro a Git Hub, se clono con el enlace y se le hizo cambios al codigo, luego se le hizo un commit a eso.  </p>
 
 
 
