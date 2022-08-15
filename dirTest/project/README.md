@@ -2,6 +2,7 @@
 
 <p>Se entro a Git Hub, se clono con el enlace y se le hizo cambios al codigo, luego se le hizo un commit a eso.  </p>
 
+![vanellope-de-ralph-el-demoledor_3840x2400_xtrafondos com](https://user-images.githubusercontent.com/111312908/184712228-016d8be4-bdbe-4c7b-afe6-d8b0238bd315.jpg)
 
 
 
