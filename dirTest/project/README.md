@@ -1,3 +1,44 @@
+<h1>EVALUACION 1</h1>
+
+<p>Se entro a Git Hub, se clono con el enlace y se le hizo cambios al codigo, luego se le hizo un commit a eso.  </p>
+
+![vanellope-de-ralph-el-demoledor_3840x2400_xtrafondos com](https://user-images.githubusercontent.com/111312908/184712228-016d8be4-bdbe-4c7b-afe6-d8b0238bd315.jpg)
+
+[NotionCriterios]https://www.notion.so/Git-Github-y-Github-Classroom-66bd89e15a314e2eb75b913831b4806a
+
+<p>
+1.git clone 
+</p>
+<p>
+2.git add 
+</p>
+<p>
+3.git commit -m "" //para agregar comentario
+</p>
+<p>
+4.git push 
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 In this directory, you should write the program `wcat.c` and compile it into
 the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
